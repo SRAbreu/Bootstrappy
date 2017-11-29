@@ -1,0 +1,71 @@
+
+.navbar {
+  border-bottom: 3px solid  lightgray;
+  padding: 5px;
+}
+
+#nav-container {
+}
+
+.navbar-brand {
+  background-color: #4aaaa5;
+  padding: 15px;
+  font-size: 30px;
+  font-family: Georgia, Times, Serif;
+	font-weight: 800;
+}
+
+li a {
+ font-size: 18px;
+ font-weight: 550;
+ font-family: Helvetica;
+ color: white;
+}
+
+/*-----styling colums/body----*/
+
+.wrapper {
+  margin-top: 20px;
+}
+
+h2 {
+  font-family: Georgia, Times, Serif;
+  font-size: 30px;
+  font-weight: 800;
+  color: #4aaaa5;
+}
+
+h4 {
+  font-family: Georgia, Times, Serif;
+  font-size: 25px;
+  font-weight: 600;
+  color: #4aaaa5;
+}
+
+#row1, #row2, #row3 {
+  padding-bottom: 20px;
+}
+
+#tags {
+  position: relative;
+  text-align: center;
+  color: white;
+  background-color: #4aaaa5;
+  width: 100%;
+}
+
+}
+#send{
+  background-color: #4aaaa5;
+}
+
+/*   styling footer    */
+footer {
+background-color: grey;
+width:	100%;
+margin-top: 20px;
+margin-bottom: 10px;
+text-align: center;
+padding: 15px;
+border-top: 5px solid #4aaaa5;
+}
